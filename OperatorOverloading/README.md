@@ -11,4 +11,4 @@ Equality (==) to compare two MyString objects for equality.
 Overload the output stream operator (<<) for easy printing of the MyString.
 
 ## Learning Objective:
-Learn how to overload operators in custom string classes to provide intuitive syntax for string operations. give me code for this
+Learn how to overload operators in custom string classes to provide intuitive syntax for string operations.
