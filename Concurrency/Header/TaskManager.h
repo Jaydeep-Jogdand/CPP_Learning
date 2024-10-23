@@ -16,7 +16,7 @@ private:
     std::vector<std::thread> tasks;
     std::mutex mtx; // Mutex for thread-safe operations
 
-    // Task functions
+
     void printMessage(int id);
     void calculateSum(int limit);
 };
