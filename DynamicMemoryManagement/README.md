@@ -1,4 +1,4 @@
-# Student List Management System
+
 
 ## Problem Statement
 Implement a project in C++ to demonstrate dynamic memory allocation and deallocation of memory.
