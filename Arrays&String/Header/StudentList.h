@@ -4,16 +4,16 @@
 class StudentList {
 private:
     std::string* students; // Dynamic array of student names
-    int capacity;          // Maximum number of students
-    int studentCount;      // Current number of students
+    int capacity;         
+    int studentCount;     s
 
-    void resizeList();     // Function to resize the student array when full
+    void resizeList();    
 
 public:
-    // Constructor
+  
     StudentList(int capacity);
 
-    // Destructor
+    
     ~StudentList();
 
     // Function to add a student name
